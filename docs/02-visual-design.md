@@ -35,3 +35,18 @@ Canvas link: https://claude.ai/artifact/BxeiEnScN3UuEU964wp3VE
 | Accent (lifted teal) | #5CC6C3 |
 | Text | #E6EEEE |
 | Muted text | #9AABAF |
+
+## Round 2 refinements (21 November 2026)
+
+Changes made after the first review. The visual identity, layout, typography and colours are unchanged.
+
+1. Homepage hero rebuilt as a full width photographic section, with a profile card and a strip naming the four core areas: AQMS operation, air quality data analysis, stack emission monitoring, and data validation and QA/QC.
+2. New "Core specializations" section on the homepage: large photo tiles for air quality monitoring, stack emission monitoring and AQMS work, plus a dedicated data validation card.
+3. Real environmental photography from Wikimedia Commons, credited on each image. All images are replaceable in the admin dashboard (see `design-assets/sample-photos/CREDITS.md`). Project cards keep placeholders for your own photos, so no stock image is presented as a client site.
+4. New project detail page: overview, scope, monitoring parameters, methodology, professional responsibilities, equipment, photos, documents and an at a glance panel. Empty sections are hidden on the live site.
+5. New instruments page and instrument detail page covering BAM 1020, iQ Series, AQM 65, Ecotech high volume samplers, Lancom 4, Testo 350 and Kane 975. Parameters and measurement principles stay hidden until you mark them verified.
+6. Admin overview rebuilt: a management card for every website section, homepage section switches, a website images panel, blog drafts and a monitoring data module. New admin project editor shows every project field.
+7. Experience content is taken word for word from the CV.
+8. Blog placeholder articles are drafts only. The public blog shows an empty state and the homepage blog section hides itself until a post is published.
+9. The illustrative wind rose was removed. Charts appear only from real monitoring data that you upload and approve.
+10. Tablet (834 px) and phone (390 px) layouts for the homepage, plus a phone layout for the admin dashboard.
