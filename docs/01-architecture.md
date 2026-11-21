@@ -1,28 +1,39 @@
 # Phase 1: Requirement Analysis and Website Architecture
 
 Project: Farhan Ali, Environmental Specialist and Air Quality Monitoring and Analysis Expert
-Status: Waiting for approval before Phase 2 (UI/UX design)
+Status: Approved. Phase 2 visual design delivered.
 Prepared: 21 November 2026
 
 ---
 
 ## 1. CV review status
 
-The CV PDF was not received in this session. No PDF was found in the repository or in the session upload folders. Everything below is built from the detailed information in the project brief, which states that it was taken from the updated CV.
+Updated 21 November 2026: the four page CV (Farhan_Environmental_Specialist_CV.pdf) has been received and checked line by line against this plan. It matches the brief on every employment entry, date, project, certification, award and language.
 
-Before any content is loaded into the database, I will compare it line by line against the PDF. Please upload it again (see section 10).
+### Resolved by the CV
 
-### Points that need confirming against the CV
+| Item | Result |
+|------|--------|
+| Employer for the projects | All projects in the Major Projects table were delivered while working with ESPAK. |
+| My role on the projects | "Managed field monitoring teams for the projects listed in the Major Projects section." This exact wording will be used in each project's "My role" field. |
+| Total experience | The CV states "Almost 5 years". The site will use this wording exactly. |
 
-| # | Item | Why it matters |
-|---|------|----------------|
-| 1 | Total experience. The three jobs run from June 2022 to today, which is about 4 years and 5 months. The CV says "almost 5 years". | The homepage statistic must match the CV exactly. Is there earlier work, an internship, or a training period that the CV counts? |
-| 2 | Graduation year and dates for the B.Sc. | The education timeline needs a start and end year. |
-| 3 | Which employer each project was delivered under. The named clients are all in Pakistan, which suggests ESPAK. | Each project page will say "Delivered while working with ...", so this must be correct. |
-| 4 | Your role on the projects (for example field analyst, monitoring team member, team lead). | The brief asks not to imply you managed every project alone. Each project gets a "My role" field. |
-| 5 | Co-authors of the IntechOpen book chapter and the chapter abstract. | A publication page must list authors accurately. I will not write an abstract myself; I will use the published one. |
-| 6 | Month and certificate number for the ERA training (2026). | The EIA certificate has both (July 2026, RETC-10075). The ERA entry currently has only the year. |
-| 7 | Any CV item not mentioned in the brief (memberships, software skills such as Excel, Openair or GIS, references, nationality, driving licence, Iqama status). | The brief says nothing may be omitted from the CV. |
+### Added from the CV (not in the original brief)
+
+1. IPC monitoring was carried out in compliance with NEQS and PEQS standards.
+2. Software and Reporting: MS Office (Excel data analysis, Word, PowerPoint), monitoring data processing and compliance reporting.
+3. Meteorological parameters: wind speed, wind direction, temperature, humidity.
+4. Reports are monthly and quarterly, with trend analysis, wind roses and compliance conclusions.
+5. Core Competencies list (12 items), including Technical Report Preparation.
+6. Role summary paragraphs for REC, IPC and ESPAK, and the Arabic company name of REC.
+
+### Still open (not stated in the CV)
+
+| # | Item |
+|---|------|
+| 1 | Graduation year for the B.Sc. Shown without a year until provided. |
+| 2 | Co-authors and abstract of the IntechOpen chapter. |
+| 3 | Month and certificate number for the ERA training. |
 
 ---
 

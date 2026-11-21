@@ -7,3 +7,4 @@ Built with Next.js, TypeScript, Tailwind CSS, shadcn/ui and Supabase.
 ## Project documents
 
 1. [Phase 1: Architecture](docs/01-architecture.md)
+2. [Phase 2: Visual design](docs/02-visual-design.md)
